@@ -1,0 +1,51 @@
+
+
+					Neural Networks - 93.5%								
+
+		5-fold cross validation accuracy: 0.975
+
+		[['-' 'Iris-setosa' 'Iris-versicolor' 'Iris-virginica' 'Total']
+		 ['Iris-setosa    ' '10' '0' '0' '10']
+		 ['Iris-versicolor' '0' '9' '1' '10']
+		 ['Iris-virginica ' '0' '1' '10' '11']
+		 ['Total          ' '10' '10' '11' '31']]
+
+		Accuracy: 0.935483870968
+		Precison: 1,0.9,0.9
+		Recall: 1,0.9,0.9
+		Error Rate: 0,0.1,0.09
+
+		
+
+
+					Random Forest Tree - 93.5%
+
+		5-fold cross validation accuracy: 0.966
+
+		[['-' 'Iris-setosa' 'Iris-versicolor' 'Iris-virginica' 'Total']
+		 ['Iris-setosa    ' '10' '0' '0' '10']
+		 ['Iris-versicolor' '0' '9' '1' '10']
+		 ['Iris-virginica ' '0' '1' '10' '11']
+		 ['Total          ' '10' '10' '11' '31']]
+
+		Accuracy: 0.935483870968
+		Precison: 1,0.9,0.9
+		Recall: 1,0.9,0.9
+		Error Rate: 0,0.1,0.09
+
+
+					Decision Tree - 93.5%
+
+		5-fold cross validation accuracy: 0.950
+
+		[['-' 'Iris-setosa' 'Iris-versicolor' 'Iris-virginica' 'Total']
+		 ['Iris-setosa    ' '10' '0' '0' '10']
+		 ['Iris-versicolor' '0' '9' '1' '10']
+		 ['Iris-virginica ' '0' '1' '10' '11']
+		 ['Total          ' '10' '10' '11' '31']]
+
+		Accuracy: 0.935483870968
+		Precison: 1,0.9,0.9
+		Recall: 1,0.9,0.9
+		Error Rate: 0,0.1,0.09
+
